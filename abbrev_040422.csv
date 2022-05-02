@@ -1,0 +1,51 @@
+Long name,Categegory Short Name,Category,Class
+My.science.teacher.accepts.me.just.as.I.am.,P_Tchr_1,Perception of Teacher ,integer
+My.science.teacher.cares.whether.I.succeed.in.this.class.,P_Tchr_2,Perception of Teacher ,integer
+My.science.teacher.believes.that.I.can.succeed.in.this.class.,P_Tchr_3,Perception of Teacher ,integer
+There.is.an.adult.in.this.building.I.can.go.to.for.help.if.I.need.it.,P_Tchr_4,Perception of Teacher ,integer
+My.classmates.accept.me.just.as.I.am.,P_Peers_1,Perception of Peers,integer
+My.classmates.want.to.learn.in.this.class.,P_Peers_2,Perception of Peers,integer
+My.classmates.work.hard.in.this.class.,P_Peers_3,Perception of Peers,integer
+I.know.why.I.study.science.in.school.,P_Sci_1,Perception of Self With Regard To Science,integer
+Explain.your.response.to.the.previous.item.,P_Sci_2,Perception of Self With Regard To Science,narrative
+What.I.learn.in.this.class.is.useful.to.me.,P_Sci_3,Perception of Self With Regard To Science,integer
+I.am.interested.in.what.we.do.in.this.class.,P_Sci_4,Perception of Self With Regard To Science,integer
+I.get.engaged.in..I.get.involved.in..the.things.I.am.learning.in.science.class.,P_Sci_5,Perception of Self With Regard To Science,integer
+I.am.someone.who.can.do.science.,P_Sci_6,Perception of Self With Regard To Science,integer
+I.find.the.level.of.challenge.in.this.class.to.be...,P_Sci_7,Perception of Self With Regard To Science,integer
+I.enjoy.coming.to.this.class.,P_Sci_8,Perception of Self With Regard To Science,integer
+Explain.your.response.to.the.previous.item..1,P_Sci_9,Perception of Self With Regard To Science,narrative
+I.ask.questions.whenever.I.need.to.,P_Mndst_1,Perception of Mindset,integer
+I.ask.questions.to.help.me.learn.better.,P_Mndst_2,Perception of Mindset,integer
+I.look.forward.to.feedback.on.my.work.and.ideas.,P_Mndst_3,Perception of Mindset,integer
+I.try.hard.even.after.experiencing.failure.,P_Mndst_4,Perception of Mindset,integer
+I.believe.that.I.can.get.better.at.things.I.am.not.good.at.,P_Mndst_5,Perception of Mindset,integer
+I.set.long.term.goals.for.myself.,P_Purps_1,Perception of Purpose,integer
+I.know.what.I.want.to.do.with.my.life.,P_Purps_2,Perception of Purpose,integer
+I.have.a.plan.,P_Purps_3,Perception of Purpose,integer
+I.spend.time.during.the.school.day.playing.games..doing.social.media..or.watching.videos.for.fun..,P_SCtrl_1,Perception of Self Control,integer
+My.phone.distracts.me.from.learning.during.the.school.day.,P_SCtrl_2,Perception of Self Control,integer
+I.allow.others.to.speak.without.interrupting.,P_SCtrl_3,Perception of Self Control,integer
+I.come.to.class.prepared.for.learning.,P_Prep_1,Perception of Preparedness,character (days)
+I.charge.my.Chromebook.at.night.,P_Prep_2,Perception of Preparedness,character (days)
+I.make.a.difference.in.this.class.,P_Prep_3,Perception of Preparedness,integer
+I.bring.my.Chromebook.to.class.,P_Prep_4,Perception of Preparedness,character (days)
+I.work.productively.with.almost.anyone.in.science.class.,P_IPS_1,Perception of Interpersonal Skills,integer
+I.am.polite.to.adults.and.peers.in.science.class.,P_IPS_2,Perception of Interpersonal Skills,character (percentage)
+I.stay.on.task.when.I.am.working.on.my.own.in.science.class.,P_WorkEth_1,Perception of Work Ethic In Class,character (percentage)
+I.finish.my.science.work.on.time.,P_WorkEth_2,Perception of Work Ethic In Class,character (percentage)
+I.complete.my.science.class.work.even.when.I.do.not.understand.it...I.fill.in.answers.just.do.get.work.done..even.if.I.do.not.understand.them...,P_WorkEth_3,Perception of Work Ethic In Class,character (percentage)
+I.actively.participate.in.science.class.,P_WorkEth_4,Perception of Work Ethic In Class,character (percentage)
+I.get.to.work.right.away.when.my.science.teacher.gives.me.a.task.,P_WorkEth_5,Perception of Work Ethic In Class,character (percentage)
+I.use.science.class.time.productively.,P_WorkEth_6,Perception of Work Ethic In Class,character (percentage)
+I.use.study.hall.time.productively.,P_WorkEth_7,Perception of Work Ethic Out of Class,character (percentage)
+I.work.on.schoolwork.with.my.classmates.outside.of.class.,P_WorkEth_8,Perception of Work Ethic Out of Class,character (days)
+I.do.homework.at.home.,P_WorkEth_9,Perception of Work Ethic Out of Class,character (days)
+I.check.my.school.email.,P_MngnSW_1,Perception of Managing School Work,character (days)
+I.check.my.grades.on.student.portal.,P_MngnSW_2,Perception of Managing School Work,character (days)
+I.have.a.system.that.works.for.keeping.track.of.my.assignments.,P_MngnSW_3,Perception of Managing School Work,integer
+I.have.a.plan.that.works.for.getting.school.work.done.on.time.,P_MngnSW_4,Perception of Managing School Work,integer
+I.understand.how.my.science.teacher.calculates.my.grades.,P_MngnSW_5,Perception of Managing School Work,integer
+I.talk.with.my.classmates.about.what.I.am.learning.when.given.time.during.science.class.,P_Group_1,Perception of Self During Group Work,character (percentage)
+I.pay.attention.to.my.classmates.when.they.talk.about.what.we.are.learning.during.class.,P_Group_2,Perception of Self During Group Work,character (percentage)
+I.stay.on.task.when.I.work.in.a.group.,P_Group_3,Perception of Self During Group Work,character (percentage)
