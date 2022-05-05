@@ -13,6 +13,11 @@ TO RUN R SCRIPT:
 
 
 CHANGE LOG:
+05/05/22:
+Formatted dates (removed time from Timestamp)
+Removed student names from all_september
+Added unfiltered_september and unfiltered_march
+
 04/04/22:
 Added class names to abbreviation csv
 Added missing variables names to abbreviation csv
